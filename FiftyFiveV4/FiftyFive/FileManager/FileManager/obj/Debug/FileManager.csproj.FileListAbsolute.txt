@@ -1,0 +1,10 @@
+C:\PROG2370\FinalProject\FiftyFiveV4\FiftyFive\FileManager\FileManager\bin\Debug\FileManager.exe.config
+C:\PROG2370\FinalProject\FiftyFiveV4\FiftyFive\FileManager\FileManager\bin\Debug\FileManager.exe
+C:\PROG2370\FinalProject\FiftyFiveV4\FiftyFive\FileManager\FileManager\bin\Debug\FileManager.pdb
+C:\PROG2370\FinalProject\FiftyFiveV4\FiftyFive\FileManager\FileManager\obj\Debug\FileManager.csproj.AssemblyReference.cache
+C:\PROG2370\FinalProject\FiftyFiveV4\FiftyFive\FileManager\FileManager\obj\Debug\FileManager.InputForm.resources
+C:\PROG2370\FinalProject\FiftyFiveV4\FiftyFive\FileManager\FileManager\obj\Debug\FileManager.Properties.Resources.resources
+C:\PROG2370\FinalProject\FiftyFiveV4\FiftyFive\FileManager\FileManager\obj\Debug\FileManager.csproj.GenerateResource.cache
+C:\PROG2370\FinalProject\FiftyFiveV4\FiftyFive\FileManager\FileManager\obj\Debug\FileManager.csproj.CoreCompileInputs.cache
+C:\PROG2370\FinalProject\FiftyFiveV4\FiftyFive\FileManager\FileManager\obj\Debug\FileManager.exe
+C:\PROG2370\FinalProject\FiftyFiveV4\FiftyFive\FileManager\FileManager\obj\Debug\FileManager.pdb

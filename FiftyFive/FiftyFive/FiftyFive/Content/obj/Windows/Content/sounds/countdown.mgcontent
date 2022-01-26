@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/PROG2370/FinalProject/FiftyFive/FiftyFive/FiftyFive/Content/sounds/countdown.mp3</SourceFile>
+  <SourceTime>2021-12-12T14:34:17.3775106-05:00</SourceTime>
+  <DestFile>C:/PROG2370/FinalProject/FiftyFive/FiftyFive/FiftyFive/Content/bin/Windows/Content/sounds/countdown.xnb</DestFile>
+  <DestTime>2021-12-12T14:35:09.5386053-05:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2020-08-10T11:17:54-05:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2020-08-10T11:17:54-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/PROG2370/FinalProject/FiftyFive/FiftyFive/FiftyFive/Content/bin/Windows/Content/sounds/countdown.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

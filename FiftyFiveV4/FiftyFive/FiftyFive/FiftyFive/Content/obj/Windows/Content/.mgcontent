@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/PROG2370/FinalProject/FiftyFiveV4/FiftyFive/FiftyFive/FiftyFive/Content/fonts/blocksFont.spritefont</File>
+    <File>C:/PROG2370/FinalProject/FiftyFiveV4/FiftyFive/FiftyFive/FiftyFive/Content/fonts/playFont.spritefont</File>
+    <File>C:/PROG2370/FinalProject/FiftyFiveV4/FiftyFive/FiftyFive/FiftyFive/Content/fonts/regularFont.spritefont</File>
+    <File>C:/PROG2370/FinalProject/FiftyFiveV4/FiftyFive/FiftyFive/FiftyFive/Content/fonts/scoreFont.spritefont</File>
+    <File>C:/PROG2370/FinalProject/FiftyFiveV4/FiftyFive/FiftyFive/FiftyFive/Content/images/background/about.png</File>
+    <File>C:/PROG2370/FinalProject/FiftyFiveV4/FiftyFive/FiftyFive/FiftyFive/Content/images/background/fiftyFive.png</File>
+    <File>C:/PROG2370/FinalProject/FiftyFiveV4/FiftyFive/FiftyFive/FiftyFive/Content/images/background/help.png</File>
+    <File>C:/PROG2370/FinalProject/FiftyFiveV4/FiftyFive/FiftyFive/FiftyFive/Content/images/background/popup.png</File>
+    <File>C:/PROG2370/FinalProject/FiftyFiveV4/FiftyFive/FiftyFive/FiftyFive/Content/images/background/stage.png</File>
+    <File>C:/PROG2370/FinalProject/FiftyFiveV4/FiftyFive/FiftyFive/FiftyFive/Content/images/background/start.png</File>
+    <File>C:/PROG2370/FinalProject/FiftyFiveV4/FiftyFive/FiftyFive/FiftyFive/Content/images/numberblocks.png</File>
+    <File>C:/PROG2370/FinalProject/FiftyFiveV4/FiftyFive/FiftyFive/FiftyFive/Content/images/shockwave.png</File>
+    <File>C:/PROG2370/FinalProject/FiftyFiveV4/FiftyFive/FiftyFive/FiftyFive/Content/sounds/add.wav</File>
+    <File>C:/PROG2370/FinalProject/FiftyFiveV4/FiftyFive/FiftyFive/FiftyFive/Content/sounds/click.wav</File>
+    <File>C:/PROG2370/FinalProject/FiftyFiveV4/FiftyFive/FiftyFive/FiftyFive/Content/sounds/select.wav</File>
+    <File>C:/PROG2370/FinalProject/FiftyFiveV4/FiftyFive/FiftyFive/FiftyFive/Content/sounds/title.mp3</File>
+    <File>C:/PROG2370/FinalProject/FiftyFiveV4/FiftyFive/FiftyFive/FiftyFive/Content/sounds/turn.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File>fonts/stageFont.spritefont</File>
+    <File>fonts/font.spritefont</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

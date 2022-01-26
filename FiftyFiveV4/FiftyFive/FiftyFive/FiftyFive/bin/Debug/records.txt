@@ -1,0 +1,10 @@
+test13	8
+test9	4
+test3	3
+test1	2
+test5	2
+test6	2
+test7	2
+test8	2
+test10	2
+test11	2
